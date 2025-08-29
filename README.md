@@ -84,9 +84,39 @@ It creates **institution-specific documents** (World Bank, EU, USAID, etc.) in m
     </tbody>
 </table>
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src=" " controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+[📄 CV Example Adb Tech 5 ](./src/CV_Example_Adb_Tech_5.docx)
+
 ---
 
 ## 📖 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
 
 ### 🔹 Overview
 A high-efficiency tool for development professionals to create institution-specific CVs and project summaries in **minutes**, adhering to the formats of organizations like **World Bank, ADB, AfDB, USAID, EU, GIZ**, and more.
@@ -128,3 +158,5 @@ A high-efficiency tool for development professionals to create institution-speci
 - Hugging Face Transformers Documentation
 - spaCy NLP library
 - World Bank, EU, USAID CV & PRAG Guidelines  
+
+</details>
