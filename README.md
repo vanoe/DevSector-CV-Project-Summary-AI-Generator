@@ -1,4 +1,4 @@
-# 📝 DevCV & Project Summary Generator
+# 📝 CV & Project Summary Generator
 
 An **AI-powered CV and project summary generator** for development-sector professionals.  
 It creates **institution-specific documents** (World Bank, EU, USAID, etc.) in minutes using smart templates.
